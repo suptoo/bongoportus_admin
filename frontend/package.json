@@ -1,0 +1,23 @@
+{
+  "name": "bongoportus-admin-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Bongoportus Admin Inventory Management System",
+  "main": "index.html",
+  "scripts": {
+    "serve": "npx http-server . -p 8080 -c-1",
+    "dev": "npx live-server --port=8080 --host=localhost"
+  },
+  "keywords": [
+    "inventory",
+    "management",
+    "frontend",
+    "mobile",
+    "admin"
+  ],
+  "author": "Umor Faruk Supto",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  }
+}
