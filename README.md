@@ -244,3 +244,6 @@ For support, email umorfaruksupto@gmail.com or create an issue in the GitHub rep
 ---
 
 **Built with ❤️ for efficient inventory management**
+---
+
+**Built with ❤️ for efficient inventory management**
